@@ -1,0 +1,6 @@
+create table cloud(username varchar(100),password varchar(100),type varchar(100),uploadsize int not null,downloadsize int not null,uploaded binary_float,downloaded binary_float);
+create table log_details(username varchar(100),filename varchar(500),bucket varchar(100),time1 varchar(100),operation varchar(100),size1 binary_float);
+
+http://jets3t.s3.amazonaws.com/toolkit/code-samples.html
+http://jets3t.s3.amazonaws.com/toolkit/code-samples.html#moving
+http://docs.aws.amazon.com/AmazonS3/latest/dev/CopyingObjectUsingJava.html

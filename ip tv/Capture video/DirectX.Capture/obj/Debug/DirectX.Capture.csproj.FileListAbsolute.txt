@@ -1,0 +1,7 @@
+E:\modify projects\v c\DirectXCapture_demo\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+E:\modify projects\v c\DirectXCapture_demo\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+E:\modify projects\v c\DirectXCapture_demo\DirectX.Capture\bin\Debug\DShowNET.dll
+E:\modify projects\v c\DirectXCapture_demo\DirectX.Capture\bin\Debug\DShowNET.pdb
+E:\modify projects\v c\DirectXCapture_demo\DirectX.Capture\obj\Debug\ResolveAssemblyReference.cache
+E:\modify projects\v c\DirectXCapture_demo\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+E:\modify projects\v c\DirectXCapture_demo\DirectX.Capture\obj\Debug\DirectX.Capture.pdb

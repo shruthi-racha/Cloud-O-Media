@@ -1,0 +1,16 @@
+E:\modify projects\v c\DirectXCapture_demo\CaptureTest\bin\Debug\CaptureTest.exe.config
+E:\modify projects\v c\DirectXCapture_demo\CaptureTest\bin\Debug\CaptureTest.exe
+E:\modify projects\v c\DirectXCapture_demo\CaptureTest\bin\Debug\CaptureTest.pdb
+E:\modify projects\v c\DirectXCapture_demo\CaptureTest\bin\Debug\DirectX.Capture.dll
+E:\modify projects\v c\DirectXCapture_demo\CaptureTest\bin\Debug\DShowNET.dll
+E:\modify projects\v c\DirectXCapture_demo\CaptureTest\bin\Debug\DirectX.Capture.pdb
+E:\modify projects\v c\DirectXCapture_demo\CaptureTest\bin\Debug\DShowNET.pdb
+E:\modify projects\v c\DirectXCapture_demo\CaptureTest\obj\Debug\ResolveAssemblyReference.cache
+E:\modify projects\v c\DirectXCapture_demo\CaptureTest\obj\Debug\CaptureTest.CaptureTest.resources
+E:\modify projects\v c\DirectXCapture_demo\CaptureTest\obj\Debug\GenerateResource.read.1.tlog
+E:\modify projects\v c\DirectXCapture_demo\CaptureTest\obj\Debug\GenerateResource.write.1.tlog
+E:\modify projects\v c\DirectXCapture_demo\CaptureTest\obj\Debug\CaptureTest.exe
+E:\modify projects\v c\DirectXCapture_demo\CaptureTest\obj\Debug\CaptureTest.pdb
+F:\2012 projects\ip tv\Capture video\CaptureTest\bin\Debug\CaptureTest.exe.config
+F:\2012 projects\ip tv\Capture video\CaptureTest\obj\Debug\CaptureTest.exe
+F:\2012 projects\ip tv\Capture video\CaptureTest\obj\Debug\CaptureTest.pdb

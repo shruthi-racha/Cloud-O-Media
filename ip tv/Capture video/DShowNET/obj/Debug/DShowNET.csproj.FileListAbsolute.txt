@@ -1,0 +1,5 @@
+E:\modify projects\v c\DirectXCapture_demo\DShowNET\bin\Debug\DShowNET.dll
+E:\modify projects\v c\DirectXCapture_demo\DShowNET\bin\Debug\DShowNET.pdb
+E:\modify projects\v c\DirectXCapture_demo\DShowNET\obj\Debug\ResolveAssemblyReference.cache
+E:\modify projects\v c\DirectXCapture_demo\DShowNET\obj\Debug\DShowNET.dll
+E:\modify projects\v c\DirectXCapture_demo\DShowNET\obj\Debug\DShowNET.pdb

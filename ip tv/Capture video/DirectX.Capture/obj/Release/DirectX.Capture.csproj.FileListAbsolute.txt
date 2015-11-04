@@ -1,0 +1,5 @@
+E:\modify projects\v c\DirectXCapture_demo\DirectX.Capture\bin\Release\DirectX.Capture.dll
+E:\modify projects\v c\DirectXCapture_demo\DirectX.Capture\bin\Release\DirectX.Capture.xml
+E:\modify projects\v c\DirectXCapture_demo\DirectX.Capture\bin\Release\DShowNET.dll
+E:\modify projects\v c\DirectXCapture_demo\DirectX.Capture\obj\Release\ResolveAssemblyReference.cache
+E:\modify projects\v c\DirectXCapture_demo\DirectX.Capture\obj\Release\DirectX.Capture.dll
